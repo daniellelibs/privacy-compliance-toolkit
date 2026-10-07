@@ -51,4 +51,4 @@ Date: [DATE] Signature: [SIGNATURE OR ELECTRONIC CLICK]
 
 ---
 
-**Version:** 1.0 | **Effective:** [DATE]
+**Version:** 1.0 | **Effective:** October 2026
